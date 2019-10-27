@@ -2,7 +2,7 @@
 
 <img src="https://github.com/geopap75/leaflet-simple-csv/blob/master/img/Screenshot_20191027-113817.png"  alt="Leaflet"/>
 
-### 
+
 ### Χαρακτηριστικά
 * Τα δεδομένα είναι σε πίνακα με οριοθετημένο κείμενο (csv, κλπ.) με δύο απαιτούμενες στήλες: `lat` και` lng`
 * Τα σημεία σχεδιάζονται σε χάρτη πλήρους οθόνης [Leaflet] (https://github.com/Leaflet/Leaflet)
@@ -13,18 +13,17 @@
 * Πλήρες κείμενο φιλτράρισμα με typeahead
 * Πλήρες javascript από την πλευρά του πελάτη(client-side) με όλες τις εξαρτήσεις που περιλαμβάνονται ή συνδέονται μέσω CDN
 
-###
-### Usage
-Download, copy the template and load index.html in a browser to confirm that everything works
+### Χρήση
+
+Κάνουμε λήψη, αντιγράφουμε το πρότυπο και φορτώνουμε το index.html σε ένα πρόγραμμα περιήγησης για να επιβεβαιώσουμε ότι όλα λειτουργούν
 
 ```
-git clone https://github.com/perrygeo/leaflet-simple-csv.git
-cd leaflet-simple-csv
+git clone https://github.com/geopap75/leaflet-simple-csv
+cd geopap75/leaflet-simple-csv
 cp config.js.template config.js
 open index.html
 ```
-
-Then modify `config.js` and `data/data.csv` according to your needs.
+Στη συνέχεια, τροποποιούμε τα config.js και data / data.csv ανάλογα με τις ανάγκες μας.
 
 Some browsers do not allow XMLHttpRequests with the `file://` protocol so you'll need to serve it with a web server. For local development, you can use python
 
