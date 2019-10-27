@@ -1,6 +1,6 @@
 ## Τοποθέτηση πινέαζας στην τρέχουσα γεωγραφική θέση.
 
-<img src="hhttps://github.com/geopap75/leaflet-simple-csv/blob/master/img/Screenshot_20191027-113817.png" alt="Leaflet" />
+<img src="https://github.com/geopap75/leaflet-simple-csv/blob/master/img/Screenshot_20191027-113817.png" alt="Leaflet" />
 
 ### Features
 * Data is in tabular delimited-text (csv, etc.) with two required columns: `lat` and `lng`
