@@ -1,4 +1,4 @@
-Simple Leaflet map template for putting points on a map.
+## Τοποθέτηση πινέαζας στην τρέχουσα γεωγραφική θέση.
 
 <img src="https://raw.github.com/perrygeo/leaflet-simple-csv/master/img/screenshot1.png" alt="Leaflet" />
 
