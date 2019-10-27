@@ -1,16 +1,17 @@
-## Τοποθέτηση πινέαζας στην τρέχουσα γεωγραφική θέση.
+## Τοποθέτηση πινέζας στην τρέχουσα γεωγραφική θέση.
 
-<img src="https://github.com/geopap75/leaflet-simple-csv/blob/master/img/Screenshot_20191027-113817.png" alt="Leaflet" />
+<img src="https://github.com/geopap75/leaflet-simple-csv/blob/master/img/Screenshot_20191027-113817.png"  alt="Leaflet"/>
 
-### Features
-* Data is in tabular delimited-text (csv, etc.) with two required columns: `lat` and `lng`
-* Points are plotted on full-screen [Leaflet](https://github.com/Leaflet/Leaflet) map
-* Point markers are clustered dynamically based on zoom level.
-* Clicking on a point cluster will zoom into the extent of the underlying features.
-* Hovering on the point will display the name. 
-* Clicking will display a popup with columns/properties displayed as an html table.
-* Full text filtering with typeahead
-* Completely client-side javascript with all dependencies included or linked via CDN
+### 
+### Χαρακτηριστικά
+* Τα δεδομένα είναι σε πίνακα με οριοθετημένο κείμενο (csv, κλπ.) με δύο απαιτούμενες στήλες: `lat` και` lng`
+* Τα σημεία σχεδιάζονται σε χάρτη πλήρους οθόνης [Leaflet] (https://github.com/Leaflet/Leaflet)
+* Οι σημειακοί δείκτες συγκεντρώνονται δυναμικά με βάση το επίπεδο ζουμ.
+* Κάνοντας κλικ σε ένα σύμπλεγμα σημείων θα μεγεθυνθεί η έκταση των υποκείμενων χαρακτηριστικών.
+* Η τοποθέτηση του δείκτη στο σημείο θα εμφανίσει το όνομα.
+* Το κλικ θα εμφανίσει ένα αναδυόμενο παράθυρο με στήλες/ιδιότητες που εμφανίζονται ως πίνακας html.
+* Πλήρες κείμενο φιλτράρισμα με typeahead
+* Πλήρες javascript από την πλευρά του πελάτη(client-side) με όλες τις εξαρτήσεις που περιλαμβάνονται ή συνδέονται μέσω CDN
 
 ###
 ### Usage
